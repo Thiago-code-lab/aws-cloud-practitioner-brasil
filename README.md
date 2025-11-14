@@ -4,4 +4,4 @@ Repositório colaborativo com recursos em Português (PT-BR) para estudos da cer
 ## Sumário
 - [01 - Introdução à Computação em Nuvem](./01-Introducao-Computacao-em-Nuvem/README.md)
 - [02 - Amazon EC2](./02-Amazon-EC2/README.md)
-- [03 - Segurança e Conformidade](./03-Seguranca-e-Conformidade/README.md)
+- [03 - Segurança e Conformidade](./03-Segurança-e-Conformidade/README.md)
