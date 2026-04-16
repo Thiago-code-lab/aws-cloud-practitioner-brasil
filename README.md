@@ -1,7 +1,7 @@
 ﻿# 📚 AWS Cloud Practitioner (CLF-C02)
 
 <p align="center">
-  <img src="./foto-thiago-cardoso.jpg" alt="Thiago Cardoso" width="180" style="border-radius: 12px;" />
+<img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/5be6c892-008f-414e-a156-b39c6a11f6c3" />
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f527b018-9010-4bf9-bbab-3127a485a05f" alt="Pedro Albertini" width="180" style="border-radius: 12px;" />
   &nbsp;&nbsp;
